@@ -1,0 +1,7 @@
+C:\Users\Patrick\source\repos\Collatz Conjecture\Collatz Conjecture\bin\Debug\Collatz Conjecture.exe.config
+C:\Users\Patrick\source\repos\Collatz Conjecture\Collatz Conjecture\bin\Debug\Collatz Conjecture.exe
+C:\Users\Patrick\source\repos\Collatz Conjecture\Collatz Conjecture\bin\Debug\Collatz Conjecture.pdb
+C:\Users\Patrick\source\repos\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz Conjecture.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz Conjecture.exe
+C:\Users\Patrick\source\repos\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz Conjecture.pdb
+C:\Users\Patrick\source\repos\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz Conjecture.csproj.AssemblyReference.cache
